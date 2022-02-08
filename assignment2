@@ -1,0 +1,6 @@
+a=float(input("enter km:"))
+b=a*100000
+print (b) 
+output:
+enter km:365
+36500000.0
